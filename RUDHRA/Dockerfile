@@ -4,7 +4,7 @@ RUN git clone https://github.com/prince-rudh/Rudhra2.0 /root/WhatsAsenaDuplicate
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
-RUN yarn install --no-audit
+RUN yarn install --ignore-engines
 RUN git clone https://github.com/prince-rudh/files
 
 CMD ["node", "bot.js"]
