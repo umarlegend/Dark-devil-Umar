@@ -1,5 +1,5 @@
 /* codded by afnanplk
-modified by princerudh
+modified by darkdevilumar
 */
 
 const { Sequelize } = require('sequelize');
