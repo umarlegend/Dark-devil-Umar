@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/880CEdp.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://ibb.co/mbr7DLV" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -62,7 +62,7 @@ bash <(curl -L https://t.ly/tHxh)
 
   <p align="center">
   <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+    <img src="https://ibb.co/mbr7DLV">
 <p align="center">
 <a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
 <a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`Dark-Devil-Umar`](https://github.com/prince-rudh.png?size=200)](https://github.com/umarlegend)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`Dark-Dev-Umar`](https://github.com/umarlegend)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
